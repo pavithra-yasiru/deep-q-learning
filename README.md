@@ -3,7 +3,7 @@
 This project implements a **Deep Q-Learning (DQN)** agent to successfully land a spacecraft in the **LunarLander-v2** environment from OpenAI Gym.  
 The agent learns to control the lander’s thrusters to achieve a soft landing between the flags with minimal fuel consumption.  
 
-https://github.com/yourusername/Deep-Q-Learning-Lunar-Lander/assets/your_video_link_here
+https://github.com/yourusername/Deep-Q-Learning-Lunar-Lander/assets/[your_video_link_here](https://github.com/pavithra-yasiru/deep-q-learning/blob/main/Deep%20Q-Learning%20for%20Lunar%20Landing.mp4)
 
 ---
 
@@ -61,7 +61,7 @@ The trained agent successfully lands the spacecraft consistently after sufficien
 ### 🎥 Demo Video  
 Check out the final performance in the demo video below:
 
-> [Watch the result video](./lunar_lander_result.mp4)
+> [[Watch the result video](./lunar_lander_result.mp4)](https://github.com/pavithra-yasiru/deep-q-learning/blob/main/Deep%20Q-Learning%20for%20Lunar%20Landing.mp4)
 
 ---
 
@@ -70,7 +70,7 @@ Check out the final performance in the demo video below:
 | File | Description |
 |------|--------------|
 | `Deep_Q_Learning_for_Lunar_Landing_Complete_Code.ipynb` | Main Jupyter notebook with full implementation |
-| `lunar_lander_result.mp4` | Recorded video showing the trained agent landing |
+| `Deep Q-Learning for Lunar Landing.mp4` | Recorded video showing the trained agent landing |
 | `README.md` | Project overview and documentation |
 
 ---
